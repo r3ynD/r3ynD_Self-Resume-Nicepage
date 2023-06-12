@@ -15,4 +15,4 @@ Nicepage is suitable even for inexperienced website developers who may not have 
 
 - Create a project using a template ID <a href="https://nicepage.com/ru/t/3847937/nemnogo-obo-mne-shablon"><3847937></a>
   
-- Using a <a href="https://color.adobe.com/ru/create/color-wheel">Adobe Color Wheel </a> to change the main colors of the template and make it pleasing to the eye
+- Using a <a href="https://color.adobe.com/ru/create/color-wheel">Adobe Color Wheel </a> to change the main colors of the template and make it pleasing to the eye (at your discretion)
