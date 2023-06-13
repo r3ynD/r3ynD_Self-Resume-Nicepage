@@ -6,7 +6,7 @@ My first experience "Nicepage"
 Nicepage is suitable even for inexperienced website developers who may not have a strong grasp of HTML/CSS, as well as people who are unfamiliar with front-end/back-end development. Its intuitive drag-and-drop interface and customizable component settings make it easy to learn and create websites using this website builder.</h4>
 
 <h3>Project interface:</h3>
-<img src="https://resources.nicepage.com/305/91305/nicepage-ui.png" wight=60% height=60%>
+<img src="https://resources.nicepage.com/305/91305/nicepage-ui.png" width=60% height=60%>
 <h2>Preparing to work and used components:</h2>
 
 - Dowmload and install <a href="https://nicepage.com/">Nicepage</a> to your PC (Windows/macOS)
@@ -16,3 +16,19 @@ Nicepage is suitable even for inexperienced website developers who may not have 
 - Create a project using a template ID <a href="https://nicepage.com/ru/t/3847937/nemnogo-obo-mne-shablon"><3847937></a>
   
 - Using a <a href="https://color.adobe.com/ru/create/color-wheel">Adobe Color Wheel </a> to change the main colors of the template and make it pleasing to the eye (at your discretion)
+
+  <h3>How i changed the initial template:</h3>
+  
+  - Removed reviews section and cooperation with companies
+  
+  - Changed main colors 
+  
+  - Add some information about me and added animations for it
+  
+  - Changed short-cuts (anchor) for each section of the site
+  
+  <h3>Result:</h3>
+  
+  ![site](https://github.com/r3ynD/r3ynD_Self-Resume-Nicepage/assets/127958857/4610bf6e-222a-4491-a822-a6b864ea6189)
+  
+  https://myinformation65832.nicepage.io/?version=7a6c21a5-f1bf-436e-8c50-cd97b764e1f0
