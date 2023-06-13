@@ -1,5 +1,5 @@
 # r3ynD_Self-Resume-Nicepage
-My first experience "Nicepage"
+My first experience in "Nicepage"
 
 <h2>Theory:</h2>
 <h4> Nicepage is a user-friendly conditional-free website builder with free hosting capabilities. What makes Nicepage convenient is its wide array of website templates and corresponding components that can be easily edited and customized. Users also have the ability to create their own website templates and components for future publication.
