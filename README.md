@@ -29,6 +29,8 @@ Nicepage is suitable even for inexperienced website developers who may not have 
   
   <h3>Result:</h3>
   
-  ![site](https://github.com/r3ynD/r3ynD_Self-Resume-Nicepage/assets/127958857/4610bf6e-222a-4491-a822-a6b864ea6189)
+  <img src="https://github.com/r3ynD/r3ynD_Self-Resume-Nicepage/assets/127958857/4610bf6e-222a-4491-a822-a6b864ea6189" width=80%>
+  
+ 
   
   https://myinformation65832.nicepage.io/?version=7a6c21a5-f1bf-436e-8c50-cd97b764e1f0
