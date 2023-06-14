@@ -23,6 +23,10 @@ Nicepage is suitable even for inexperienced website developers who may not have 
   
   - Changed main colors 
   
+<img src="https://github.com/r3ynD/r3ynD_Self-Resume-Nicepage/assets/127958857/b20f2230-fab7-455d-8100-9b9c604022fd" width=40%> 
+
+<img src="https://github.com/r3ynD/r3ynD_Self-Resume-Nicepage/assets/127958857/a42c39dd-426d-4c02-9144-05e0b02fec5b" width=40%>
+  
   - Add some information about me and added animations for it
   
   - Changed short-cuts (anchor) for each section of the site
