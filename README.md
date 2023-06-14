@@ -17,7 +17,7 @@ Nicepage is suitable even for inexperienced website developers who may not have 
   
 - Using a <a href="https://color.adobe.com/ru/create/color-wheel">Adobe Color Wheel </a> to change the main colors of the template and make it pleasing to the eye (at your discretion)
 
-  <h3>How i changed the initial template:</h3>
+<h3>How i changed the initial template:</h3>
   
   - Removed reviews section and cooperation with companies
   
@@ -31,10 +31,20 @@ Nicepage is suitable even for inexperienced website developers who may not have 
   
   - Changed short-cuts (anchor) for each section of the site
   
+  <h3> What is working:</h3>
+  
+  - Adaptive layout
+  
+  - Animations
+  
+  - Working <Contact me>
+  
   <h3>Result:</h3>
+  
+  https://myinformation65832.nicepage.io/?version=95d28098-bab9-45dd-94f3-3a30f27f0b60
   
   <img src="https://github.com/r3ynD/r3ynD_Self-Resume-Nicepage/assets/127958857/4610bf6e-222a-4491-a822-a6b864ea6189" width=80%>
   
  
   
-  https://myinformation65832.nicepage.io/?version=7a6c21a5-f1bf-436e-8c50-cd97b764e1f0
+
